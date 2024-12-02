@@ -26,12 +26,12 @@ The dataset used in this project is publicly available on Kaggle.
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/stress-detection.git
    cd stress-detection
    ```
 2. Install the required libraries:
-```bash
+```
 pip install -r requirements.txt
 ```
 3. Download the dataset and place it in the root folder as stress.csv.
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### Running the Project
 1. Open the `stress_detection.py` file in your IDE or terminal.
 2. Run the script:
-   ```bash
+   ```
    python stress_detection.py
    ```
 3. To test the model, enter custom text when prompted.
